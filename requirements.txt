@@ -1,0 +1,6 @@
+pre-commit
+black
+pycln
+isort
+pyupgrade
+flake8
